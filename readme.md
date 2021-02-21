@@ -1,8 +1,11 @@
 <h1>Program Akisi</h1>
 <p>
 -Play ile oyun basliyor
+  <br>
 -Kullaniciya 10 adet soru soruluyor
+  <br>
 -Oyun bittikten sonra Localstroge Kaydediyor
+  <br>
 -User & Score butonu ile kullanicilarin almis oldugu not siralaniyor
 </p>
 <h1>Program dosya yapisi</h1>
